@@ -1,12 +1,12 @@
 .Calculator {
   height: 350px;
-  width: 250px;
+  width: 300px;
   border-radius: 5px;
   overflow: hidden;
   background-color: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur( 10px );
   -webkit-backdrop-filter: blur( 10px );
-  border: 1PX solid rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
   
 }
 footer{
